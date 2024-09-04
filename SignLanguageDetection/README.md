@@ -20,4 +20,4 @@ This project is inspired from [here](https://www.youtube.com/watch?v=doDUihpj6ro
 ## What did I learn?
 1. How is possible to detect and then track an object instead of repeating the prediction to improve the computation time;
 2. How is possible to extract data from the webcam;
-3. I revied the concept of how to interpret the loss plots from this (link)[https://towardsdatascience.com/learning-curve-to-identify-overfitting-underfitting-problems-133177f38df5], especially why we need to reach the convergence part;
+3. I revied the concept of how to interpret the loss plots from this [link](https://towardsdatascience.com/learning-curve-to-identify-overfitting-underfitting-problems-133177f38df5), especially why we need to reach the convergence part;
